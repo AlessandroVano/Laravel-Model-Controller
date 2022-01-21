@@ -14,6 +14,6 @@
         @yield('content')
     </main>
 
-    <footer>FOOTER HERE</footer>
+    <footer class="text-center">FOOTER HERE</footer>
 </body>
 </html>

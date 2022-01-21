@@ -1,4 +1,4 @@
-<header class="mb-5">
+<header class="mb-5 d-flex justify-content-center">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="{{route('home') }}">MY SITE TITLE</a>
