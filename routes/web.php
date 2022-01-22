@@ -20,3 +20,8 @@ Route::get('/', function () {
 
 // Movies
 Route::get('/movies', 'MovieController@index')->name('movie');
+
+
+
+// Rotta
+Route::get('/detail/{id}', 'DetailMovieCOntroller@index')->name('detail-movie');
